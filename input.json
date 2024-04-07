@@ -1,0 +1,14 @@
+{
+    "person": {
+      "name": "John Doe",
+      "age": 30,
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "zipcode": "12345"
+      },
+      "email": ["john@example.com", "j.doe@example.com"],
+      "is_student": false
+    }
+  }
+  
